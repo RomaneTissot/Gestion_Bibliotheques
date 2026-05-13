@@ -1,0 +1,2 @@
+# Gestion_Bibliothèques
+Projet final (fait en binôme) pour l'électif de programmation orientée objet en C++. L'objectif de ce projet était de fournir un programme qui permette de gérer un réseau de bibliothèques. Il s'agit donc de représenter les différentes bibliothèques ainsi que leur contenu, leurs adhérents, les emprunts, les échanges entre bibliothèques, les achats, les pertes et la mise au pilon de certains ouvrages.
